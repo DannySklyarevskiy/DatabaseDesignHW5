@@ -1,0 +1,11 @@
+{
+  "name": "hw5",
+  "version": "1.0.0",
+  "description": "Queries for Assignment 5! I used the MongoDB Aggregation Pipeline, with the js files containing results converted to node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
